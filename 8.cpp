@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#inlcude <string.h>
+#include <string.h>
 #include <string>
 #include <vector>
 using namespace std;

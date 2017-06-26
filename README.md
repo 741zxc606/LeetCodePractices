@@ -1,0 +1,2 @@
+# LeetCodePractices
+Practices of LeetCode

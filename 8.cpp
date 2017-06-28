@@ -107,7 +107,7 @@ string longestPalindrome(string s)
     return longestPalindrome_recursive_way(s);
 }
 
-int main(int argc,char**atgv)
+int main(int argc,char**argv)
 {
     string s="abaxdfgdcaba";
     if(argc>1)

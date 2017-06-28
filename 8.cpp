@@ -29,7 +29,6 @@ string longestPalindrome_recursive_way(string s)
     if(n<=1) return s;
 
     string longest;
-
     string str;
     for(int i=0;i<n-1;i++)
     {
@@ -47,6 +46,8 @@ string longestPalindrome_dp_way(string s)
     string longest;
     int n=s.size();
     if(n<=1) return s;
+    
+    vector<vector<bool>> matrix(n,vector<bool>(n));
 
     for(int i=n-1;i>=0;i--)
     {
@@ -82,11 +83,11 @@ string longestPalindrome_dp_opt_way(string s)
         {
             if(i==j||(s[j]==s[i]&&(i-j<2||matrix[i-1][j+1])))
             {
-                mareix[i][j]=true;
+                matrix[i][j]=true;
                 if(len<i-j+1)
                 {
                     start=j;
-                    lemn=i-j+1;
+                    len=i-j+1;
                 }
             }
         }
@@ -97,7 +98,6 @@ string longestPalindrome_dp_opt_way(string s)
         delete [] matrix[i];
     }
     delete [] matrix;
-
     return s.substr(start,len);
 }
 

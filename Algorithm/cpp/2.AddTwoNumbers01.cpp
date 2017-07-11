@@ -1,11 +1,11 @@
 /*
- *Q2.4 You have two numbers represented by a linked list,where each node contains a single digit.
- *The digit are stored in reverse order,such that the 1's digit is at the head of the list.
- *Write a function that adds the two numbers thr sum as a linked list.
- *Example:
- *Input:(3->1->5),(5->9->2)
- *Output:8->0->8
- */
+* 2.Add Two Numbers
+* You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of
+* their nodes contain a single digit. Add the two numbers and return it as a linked list.
+* You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+* Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+* Output: 7 -> 0 -> 8
+*/
 
 #include <iostream>
 using namespace std;
@@ -95,10 +95,10 @@ void print(node *head)
 
 int main()
 {
-	int n = 4;
-	int a[] = {1,2,9,3};
+	int n = 3;
+	int a[] = {2,4,3};
 	int m = 3;
-	int b[] = { 8,8,4 };
+	int b[] = {5,6,4};
 
 	node *p = init(a, n);
 	node *q = init(b, m);

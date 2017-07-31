@@ -15,6 +15,23 @@ Practices of LeetCode
 |  9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/9.PalindromeNumber.cpp) | Easy |
 |  10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/10.RegularExpressionMatching.cpp) | Hard |
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/11.ContainerWithMostWater.cpp) | Medium |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++]() | Medium |
+| 13  | []() | [C++]() | Easy |
+| 14  | []() | [C++]() | Easy |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/15.3Sum.cpp) | Medium |
+| 16  | []() | [C++]() | Medium |
+| 17  | []() | [C++]() | Medium |
+| 18  | []() | [C++]() | Medium |
+| 19  | []() | [C++]() | Medium |
+| 20  | []() | [C++]() | Easy |
+| 21  | []() | [C++]() | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/22.GenerateParentheses.cpp) | Medeium |
+| 23  | []() | [C++]() | Hard |
+| 24  | []() | [C++]() | Medium |
+| 25  | []() | [C++]() | Hard |
+| 26  | []() | [C++]() | Easy |
+| 27  | []() | [C++]() | Easy |
+| 28  | []() | [C++]() | Easy |
+| 29  | []() | [C++]() | Medium |
+| 30  | []() | [C++]() | Hard |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.cpp) | Medium |

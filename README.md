@@ -19,7 +19,7 @@ Practices of LeetCode
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/11.ContainerWithMostWater.cpp) | Medium |
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/12.IntegertoRoman.cpp) | Medium |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/13.RomanToInteger.cpp) | Easy |
-| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++]() | Easy |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/14.LongestCommonPrefix.cpp) | Easy |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/15.3Sum.cpp) | Medium |
 | 16  | []() | [C++]() | Medium |
 | 17  | []() | [C++]() | Medium |

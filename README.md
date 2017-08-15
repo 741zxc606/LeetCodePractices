@@ -32,7 +32,7 @@ Practices of LeetCode
 | 24  | []() | [C++]() | Medium |
 | 25  | []() | [C++]() | Hard |
 | 26  | []() | [C++]() | Easy |
-| 27  | []() | [C++]() | Easy |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |
 | 28  | []() | [C++]() | Easy |
 | 29  | []() | [C++]() | Medium |
 | 30  | []() | [C++]() | Hard |

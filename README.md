@@ -22,8 +22,8 @@ Practices of LeetCode
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/14.LongestCommonPrefix.cpp) | Easy |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/15.3Sum.cpp) | Medium |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/16.3SumClosest.cpp) | Medium |
-| 17  | []() | [C++]() | Medium |
-| 18  | []() | [C++]() | Medium |
+| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/17.LetterCombinationsofaPhoneNumber.cpp) | Medium |
+| 18  | [4Sum](https://leetcode.com/problems/4sum/description/) | [C++]() | Medium |
 | 19  | []() | [C++]() | Medium |
 | 20  | []() | [C++]() | Easy |
 | 21  | []() | [C++]() | Easy |

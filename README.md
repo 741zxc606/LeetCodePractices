@@ -26,7 +26,7 @@ Practices of LeetCode
 | 18  | [4Sum](https://leetcode.com/problems/4sum/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/18.4Sum.cpp) | Medium |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/19.RemoveNthNodeFromEndofList.cpp) | Medium |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/20.ValidParentheses.cpp)| Easy |
-| 21  | []() | [C++]() | Easy |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/21.MergeTwoSortedLists.cpp) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/22.GenerateParentheses.cpp) | Medeium |
 | 23  | []() | [C++]() | Hard |
 | 24  | []() | [C++]() | Medium |

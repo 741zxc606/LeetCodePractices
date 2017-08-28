@@ -11,7 +11,7 @@ using namespace std;
 class Solution
 {
 public:
-	vector<int> sparilOrder(vector<vector<int>>& matrix)
+	vector<int> spiralOrder(vector<vector<int>>& matrix)
 	{
 		vector<int> result;
 		int row = matrix.size();
@@ -75,7 +75,7 @@ int main()
 		{7,8,9}
 	};
 
-	vector<int> v = s.sparilOrder(matrix);
+	vector<int> v = s.spiralOrder(matrix);
 	//printArray(v);
 	cout << "[";
 	for (int i = 0; i < v.size(); i++)

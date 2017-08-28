@@ -66,7 +66,7 @@ ListNode *createLinkedList(vecIter begin, vecIter end)
 	return head;
 }
 
-void printAnClear(ListNode *head)
+void printAndClear(ListNode *head)
 {
 	while (head)
 	{
@@ -91,14 +91,14 @@ int main()
 	ListNode *res1 = s.removeNthFromEnd(head1,2);
 	ListNode *res2 = s.removeNthFromEnd(head2,2);
 
-	printAnClear(res1);
-	printAnClear(res2);
+	printAndClear(res1);
+	printAndClear(res2);
 
 	ListNode *res3 = s.removeNthFromEnd2(head1, 2);
 	ListNode *res4 = s.removeNthFromEnd2(head2, 2);
 
-	printAnClear(res3);
-	printAnClear(res4);
+	printAndClear(res3);
+	printAndClear(res4);
 
 	return 0;
 }

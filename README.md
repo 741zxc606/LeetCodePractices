@@ -29,7 +29,7 @@ Practices of LeetCode
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/21.MergeTwoSortedLists.cpp) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/22.GenerateParentheses.cpp) | Medeium |
 | 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/23.MergekSortedLists.cpp) | Hard |
-| 24  | []() | [C++]() | Medium |
+| 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/24.SwapNodesinPairs.cpp) | Medium |
 | 25  | []() | [C++]() | Hard |
 | 26  | []() | [C++]() | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |

@@ -33,7 +33,7 @@ Practices of LeetCode
 | 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/25.ReverseNodesinK-Groups.cpp) | Hard |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/26.RemoveDuplicatesfromSortedArray.cpp) | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |
-| 28  | []() | [C++]() | Easy |
+| 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/28.ImplementstrStr.cpp) | Easy |
 | 29  | []() | [C++]() | Medium |
 | 30  | []() | [C++]() | Hard |
 | 37  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |

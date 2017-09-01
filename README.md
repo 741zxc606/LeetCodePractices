@@ -36,7 +36,26 @@ Practices of LeetCode
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/28.ImplementstrStr.cpp) | Easy |
 | 29  | []() | [C++]() | Medium |
 | 30  | []() | [C++]() | Hard |
+| 31  | []() | [C++]() | Medium |
+| 32  | []() | [C++]() | Hard |
+| 33  | []() | [C++]() | Medium |
+| 34  | []() | [C++]() | Medium |
+| 35  | []() | [C++]() | Easy |
+| 36  | []() | [C++]() | Medium |
 | 37  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |
+| 38  | []() | [C++]() | Easy |
+| 39  | []() | [C++]() | Medium |
+| 40  | []() | [C++]() | Medium |
+| 41  | []() | [C++]() | Hard |
+| 42  | []() | [C++]() | Hard |
+| 43  | []() | [C++]() | Medium |
+| 44  | []() | [C++]() | Hard |
+| 45  | []() | [C++]() | Hard |
+| 46  | []() | [C++]() | Medium |
+| 47  | []() | [C++]() | Medium |
+| 48  | []() | [C++]() | Medium |
+| 49  | []() | [C++]() | Medium |
+| 50  | []() | [C++]() | Medium |
 | 54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/54.SpiralMatrix.cpp) | Medium |
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/55.JumpGame.cpp) | Medium |
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |

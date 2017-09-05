@@ -36,8 +36,8 @@ Practices of LeetCode
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/28.ImplementstrStr.cpp) | Easy |
 | 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/29.DivideTwoIntegers.cpp) | Medium |
 | 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/30.StringwithConcatenationofAllWords.cpp) | Hard |
-| 31  | []() | [C++]() | Medium |
-| 32  | []() | [C++]() | Hard |
+| 31  | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/31.Next%20Permutation.cpp) | Medium |
+| 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [C++]() | Hard |
 | 33  | []() | [C++]() | Medium |
 | 34  | []() | [C++]() | Medium |
 | 35  | []() | [C++]() | Easy |

@@ -35,7 +35,7 @@ Practices of LeetCode
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/28.ImplementstrStr.cpp) | Easy |
 | 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/29.DivideTwoIntegers.cpp) | Medium |
-| 30  | []() | [C++]() | Hard |
+| 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/30.StringwithConcatenationofAllWords.cpp) | Hard |
 | 31  | []() | [C++]() | Medium |
 | 32  | []() | [C++]() | Hard |
 | 33  | []() | [C++]() | Medium |

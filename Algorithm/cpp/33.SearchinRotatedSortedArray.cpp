@@ -67,8 +67,12 @@ public:
 int main()
 {
     Solution s;
-    int A[]= { 3,1 };
-    vector<int> arr (begin(A),end(A));
-    cout << s.search(arr, 3) << endl;
+    int arr1[]= { 3,1 };
+    int arr2[] = {0,1,2,4,5,6,7};
+    vector<int> A1 (begin(arr1),end(arr1));
+    vector<int> A2 (begin(arr2),end(arr2));
+    cout << s.search(A1, 3) << endl;
+    cout << s.search(A2, 4) << endl;
+    cout << s.search(A2, 3) << endl;
     return 0;
 }

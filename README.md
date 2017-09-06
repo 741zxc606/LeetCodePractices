@@ -40,7 +40,7 @@ Practices of LeetCode
 | 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/32.LongestValidParentheses.cpp) | Hard |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/33.SearchinRotatedSortedArray.cpp) | Medium |
 | 34  | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/34.SearchforARange.cpp) | Medium |
-| 35  | []() | [C++]() | Easy |
+| 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/35.SearchInsertPosition.cpp) | Easy |
 | 36  | []() | [C++]() | Medium |
 | 37  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |
 | 38  | []() | [C++]() | Easy |

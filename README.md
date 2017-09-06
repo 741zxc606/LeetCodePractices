@@ -38,7 +38,7 @@ Practices of LeetCode
 | 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/30.StringwithConcatenationofAllWords.cpp) | Hard |
 | 31  | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/31.Next%20Permutation.cpp) | Medium |
 | 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/32.LongestValidParentheses.cpp) | Hard |
-| 33  | []() | [C++]() | Medium |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/33.SearchinRotatedSortedArray.cpp) | Medium |
 | 34  | []() | [C++]() | Medium |
 | 35  | []() | [C++]() | Easy |
 | 36  | []() | [C++]() | Medium |

@@ -43,7 +43,7 @@ Practices of LeetCode
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/35.SearchInsertPosition.cpp) | Easy |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/36.ValidSudoku.cpp) | Medium |
 | 37  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |
-| 38  | []() | [C++]() | Easy |
+| 38  | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/38.CountandSay.cpp) | Easy |
 | 39  | []() | [C++]() | Medium |
 | 40  | []() | [C++]() | Medium |
 | 41  | []() | [C++]() | Hard |

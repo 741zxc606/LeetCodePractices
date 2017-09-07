@@ -44,7 +44,7 @@ Practices of LeetCode
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/36.ValidSudoku.cpp) | Medium |
 | 37  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |
 | 38  | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/38.CountandSay.cpp) | Easy |
-| 39  | []() | [C++]() | Medium |
+| 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/39.CombinationSum.cpp) | Medium |
 | 40  | []() | [C++]() | Medium |
 | 41  | []() | [C++]() | Hard |
 | 42  | []() | [C++]() | Hard |

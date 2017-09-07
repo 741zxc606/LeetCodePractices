@@ -8,7 +8,7 @@ Practices of LeetCode
 | :---: | :---- | :----: | :----: |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/1.TwoSum.cpp) | Medium |
 |  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/2.AddTwoNumbers01.cpp) | Medium |
-|  3  | [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/3.Longest%20Substring%20Without%20Repeating%20Characters.cpp) | Medium |
+|  3  | [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/3.LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
 |  4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/4.MedianofTwoSortedArrays.cpp) | Hard |
 |  5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/5.LongestPalindromicSubstring.cpp) | Medium |
 |  6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/6.ZigZagConversion.cpp) | Medium |

@@ -46,7 +46,7 @@ Practices of LeetCode
 | 38  | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/38.CountandSay.cpp) | Easy |
 | 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/39.CombinationSum.cpp) | Medium |
 | 40  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/40.CombinationSumII.cpp) | Medium |
-| 41  | []() | [C++]() | Hard |
+| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/41.FirstMissingPositive.cpp) | Hard |
 | 42  | []() | [C++]() | Hard |
 | 43  | []() | [C++]() | Medium |
 | 44  | []() | [C++]() | Hard |

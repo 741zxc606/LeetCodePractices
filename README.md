@@ -60,4 +60,5 @@ Practices of LeetCode
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/55.JumpGame.cpp) | Medium |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/57.InsertInterval.cpp) | Hard |
 | 62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
+| 86  | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/86.PartitionList.cpp) | Medium |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.cpp) | Medium |

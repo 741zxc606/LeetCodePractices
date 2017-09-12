@@ -73,7 +73,7 @@ int main()
         {
             cout << vv[i][j] << " ";
         }
-        cout << "]";
+        cout << "]" << endl;
     }
     return 0;
 }

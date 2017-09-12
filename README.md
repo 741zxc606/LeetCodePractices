@@ -53,7 +53,7 @@ Practices of LeetCode
 | 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/45.JumpGameII.cpp) | Hard |
 | 46  | [Permutations](https://leetcode.com/problems/permutations/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/46.Permutations.cpp) | Medium |
 | 47  | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/47.PermutationsII.cpp) | Medium |
-| 48  | []() | [C++]() | Medium |
+| 48  | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/48.RotateImage.cpp) | Medium |
 | 49  | []() | [C++]() | Medium |
 | 50  | []() | [C++]() | Medium |
 | 54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/54.SpiralMatrix.cpp) | Medium |

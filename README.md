@@ -51,7 +51,7 @@ Practices of LeetCode
 | 43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/43.MultiplyString.cpp) | Medium |
 | 44  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/44.WildcardMatching.cpp) | Hard |
 | 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/45.JumpGameII.cpp) | Hard |
-| 46  | []() | [C++]() | Medium |
+| 46  | [Permutations](https://leetcode.com/problems/permutations/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/46.Permutations.cpp) | Medium |
 | 47  | []() | [C++]() | Medium |
 | 48  | []() | [C++]() | Medium |
 | 49  | []() | [C++]() | Medium |

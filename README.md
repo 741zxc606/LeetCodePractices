@@ -28,8 +28,7 @@ Practices of LeetCode
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/20.ValidParentheses.cpp)| Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/21.MergeTwoSortedLists.cpp) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/22.GenerateParentheses.cpp) | Medeium |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/23.MergekSortedLists.cpp) | Hard |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/24.SwapNodesinPairs.cpp) | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/23.MergekSortedLists.cpp) | Hard || 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/24.SwapNodesinPairs.cpp) | Medium |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/25.ReverseNodesinK-Groups.cpp) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/26.RemoveDuplicatesfromSortedArray.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |
@@ -67,7 +66,8 @@ Practices of LeetCode
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/84.LargestRectangleinHistogram.cpp) | Hard |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/85.MaximalRectangle.cpp) | Hard |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/86.PartitionList.cpp) | Medium |
-| 92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/92.ReverseLinkedListII.cpp) | Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/92.ReverseLinkedListII.cpp) | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/94.BniaryTreeInorderTraversal.cpp) | Medium |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 |   | []() | [C++]() | Easy |

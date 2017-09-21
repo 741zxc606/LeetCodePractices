@@ -34,13 +34,13 @@ Practices of LeetCode
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/27.RemoveElement.cpp) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/28.ImplementstrStr.cpp) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/29.DivideTwoIntegers.cpp) | Medium |
-|  30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/30.StringwithConcatenationofAllWords.cpp) | Hard |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/30.StringwithConcatenationofAllWords.cpp) | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/31.Next%20Permutation.cpp) | Medium |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/32.LongestValidParentheses.cpp) | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/33.SearchinRotatedSortedArray.cpp) | Medium |
 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/34.SearchforARange.cpp) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/35.SearchInsertPosition.cpp) | Easy |
-|  36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/36.ValidSudoku.cpp) | Medium |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/36.ValidSudoku.cpp) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/37.SudokuSolver.cpp) | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/38.CountandSay.cpp) | Easy |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/39.CombinationSum.cpp) | Medium |
@@ -68,11 +68,15 @@ Practices of LeetCode
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/86.PartitionList.cpp) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/92.ReverseLinkedListII.cpp) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/94.BniaryTreeInorderTraversal.cpp) | Medium |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/95.UniqueBinarySearchTreesII.cpp) | Medium |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
-|   | []() | [C++]() | Easy |
-|   | []() | [C++]() | Medium |
-|   | []() | [C++]() | Hard |
+
+--------------------------------
+
+- |  | []() | [C++]() | Easy |
+- |  | []() | [C++]() | Medium |
+- |  | []() | [C++]() | Hard |
 
 
 

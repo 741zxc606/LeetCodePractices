@@ -73,6 +73,7 @@ Practices of LeetCode
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/98.ValidateBinarySearchTree.cpp) | Medium |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/99.RecoverBinarySearchTree.cpp) | Hard |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/100.SameTree.cpp) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/101.SymmetricTree.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 

@@ -70,6 +70,7 @@ Practices of LeetCode
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/85.MaximalRectangle.cpp) | Hard |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/86.PartitionList.cpp) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/92.ReverseLinkedListII.cpp) | Medium |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/93.RestoreIPAddresses.cpp) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/94.BniaryTreeInorderTraversal.cpp) | Medium |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/95.UniqueBinarySearchTreesII.cpp) | Medium |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/96.UniqueBinarySearchTrees.cpp) | Medium |

@@ -60,6 +60,7 @@ Practices of LeetCode
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/57.InsertInterval.cpp) | Hard |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/discuss/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/61.RotateList.cpp) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/71.SimplifyPath.cpp) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/82.RemoveDuplicatesfromSortedListII.cpp) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/83.RemoveDuplicatesfromSortedList.cpp) | Easy |

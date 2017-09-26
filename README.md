@@ -69,6 +69,7 @@ Practices of LeetCode
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/84.LargestRectangleinHistogram.cpp) | Hard |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/85.MaximalRectangle.cpp) | Hard |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/86.PartitionList.cpp) | Medium |
+| 87 | [Scramble String ](https://leetcode.com/problems/scramble-string/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/87.ScrambleString.cpp) | Hard |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/90.SubsetsII.cpp) | Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/91.DecodeWays.cpp) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/92.ReverseLinkedListII.cpp) | Medium |

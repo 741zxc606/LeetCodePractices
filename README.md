@@ -85,12 +85,13 @@ Practices of LeetCode
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/101.SymmetricTree.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
-
 --------------------------------
 
-- |  | []() | [C++]() | Easy |
-- |  | []() | [C++]() | Medium |
-- |  | []() | [C++]() | Hard |
+| # | Title | Solution | Difficulty |
+| :---: | :---- | :----: | :----: |
+|  | []() | [C++]() | Easy |
+|  | []() | [C++]() | Medium |
+|  | []() | [C++]() | Hard |
 
 
 

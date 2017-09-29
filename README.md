@@ -60,7 +60,7 @@ Practices of LeetCode
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/55.JumpGame.cpp) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/56.MergeInterval.cpp) | Medium |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/57.InsertInterval.cpp) | Hard |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/58.LengthofLastWord.cpp | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/58.LengthofLastWord.cpp) | Easy |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/discuss/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/61.RotateList.cpp) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |

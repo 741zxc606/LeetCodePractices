@@ -55,6 +55,7 @@ Practices of LeetCode
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/48.RotateImage.cpp) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/49.GroupAnagrams.cpp) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/50.Pow.cpp) | Medium |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/51.N-Queens.cpp) | Hard |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/54.SpiralMatrix.cpp) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/55.JumpGame.cpp) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/56.MergeInterval.cpp) | Medium |

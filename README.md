@@ -62,7 +62,7 @@ Practices of LeetCode
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/57.InsertInterval.cpp) | Hard |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/58.LengthofLastWord.cpp) | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/59.SpiralMatrixII.cpp) | Medium |
-| 60 | []() | [C++]() | Medium |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/60.PermutationSequence.cpp) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/discuss/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/61.RotateList.cpp) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |

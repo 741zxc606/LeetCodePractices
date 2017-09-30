@@ -57,6 +57,7 @@ Practices of LeetCode
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/50.Pow.cpp) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/51.N-Queens.cpp) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/52.N-QueensII.cpp) | Hard |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/53.MaximumSubarray.cpp) | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/54.SpiralMatrix.cpp) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/55.JumpGame.cpp) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/56.MergeInterval.cpp) | Medium |

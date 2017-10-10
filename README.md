@@ -1,5 +1,6 @@
 # LeetCodePractices
-- Practices of LeetCode
+
+LeetCode Practices
 
 [LeetCode](https://leetcode.com/problemset/all/)
 

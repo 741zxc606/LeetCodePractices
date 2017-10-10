@@ -1,6 +1,6 @@
 # LeetCodePractices
 
-LeetCode Practices
+&hearts; &hearts; &hearts;
 
 [LeetCode](https://leetcode.com/problemset/all/)
 

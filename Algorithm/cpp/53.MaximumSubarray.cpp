@@ -16,7 +16,7 @@ using namespace std;
 
 class Solution {
 public:
-    int maxSubuArray(vector<int>& nums)
+    int maxSubArray(vector<int>& nums)
     {
         int sum = 0, minSum = 0, maxSum = INT_MIN;
         for (int i = 0; i < nums.size(); i++)
@@ -33,6 +33,6 @@ int main()
 {
     vector<int> A{ -2,1,-3,4,-1,2,1,-5,4 };
     Solution s;
-    cout << s.maxSubuArray(A) << endl;
+    cout << s.maxSubArray(A) << endl;
     return 0;
 }

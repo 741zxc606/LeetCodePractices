@@ -48,7 +48,7 @@ public:
                 else tmp += string((maxWidth - l) / (k - 1) + (j < (maxWidth - l) % (k - 1)), ' ');//Great
                 tmp += words[i + j + 1];
             }
-            tmp += string(maxWidth = tmp.size(), ' ');
+            tmp += string(maxWidth - tmp.size(), ' ');
             res.push_back(tmp);
         }
         return res;

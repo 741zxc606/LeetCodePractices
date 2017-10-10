@@ -68,6 +68,7 @@
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/60.PermutationSequence.cpp) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/discuss/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/61.RotateList.cpp) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/65.ValidNumber.cpp) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/70.ClimbingStairs.cpp) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/71.SimplifyPath.cpp) | Medium |

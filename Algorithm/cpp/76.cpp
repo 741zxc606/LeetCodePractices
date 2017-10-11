@@ -24,7 +24,7 @@ class Solution {
 public:
     string minWindow(string s, string t)
     {
-        //
+        //take care of Boundary!!!
         string win;
         if (s.size()<=0||t.size()<=0|| t.size() > s.size()) return win;
         if ((s.size() == t.size()) && (s != t)) return win;

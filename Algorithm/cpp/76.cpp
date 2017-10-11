@@ -24,6 +24,11 @@ class Solution {
 public:
     string minWindow(string s, string t)
     {
+        //
+        string win;
+        if (s.size()<=0||t.size()<=0|| t.size() > s.size()) return win;
+        if ((s.size() == t.size()) && (s != t)) return win;
+        
         vector<int> map(128, 0);
         for (auto c : t) map[c]++;
         int counter = t.size(), begin = 0, end = 0, d = INT_MAX, head = 0;

@@ -69,6 +69,7 @@
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/60.PermutationSequence.cpp) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/discuss/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/61.RotateList.cpp) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/62.UniquePaths.cpp) | Medium |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/63.UniquePathsII.cpp) | Medium |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/65.ValidNumber.cpp) | Hard |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/68.TextJustification.cpp) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |

@@ -73,6 +73,7 @@
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/64.MinimumPathSum.cpp) | Medium |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/65.ValidNumber.cpp) | Hard |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/66.PlusOne.cpp) | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/67.AddBinary.cpp) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/68.TextJustification.cpp) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/70.ClimbingStairs.cpp) | Easy |

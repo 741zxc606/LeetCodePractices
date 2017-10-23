@@ -79,6 +79,7 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/70.ClimbingStairs.cpp) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/71.SimplifyPath.cpp) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/72.EditDistance.cpp) | Hard |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/73.SetMatrixZeroes.cpp) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/76.MinimumWindowSubstring.cpp) | Hard |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/82.RemoveDuplicatesfromSortedListII.cpp) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/83.RemoveDuplicatesfromSortedList.cpp) | Easy |

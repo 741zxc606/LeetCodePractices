@@ -27,12 +27,12 @@ public:
         while (l != r)
         {
             int mid = (l + r - 1) >> 1;
-            if (matrix[mid / m][mid%m] < target)
+            if (matrix[mid / m][mid % m] < target)
                 l = mid + 1;
             else
                 r = mid;
         }
-        return matrix[r / m][r % m] = target;
+        return matrix[r / m][r % m] == target;
     }
 };
 

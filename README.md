@@ -84,6 +84,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/75.SortColors.cpp) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/76.MinimumWindowSubstring.cpp) | Hard |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/77.Combinations.cpp) | Medium |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/78.Subsets.cpp) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/82.RemoveDuplicatesfromSortedListII.cpp) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/83.RemoveDuplicatesfromSortedList.cpp) | Easy |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/84.LargestRectangleinHistogram.cpp) | Hard |

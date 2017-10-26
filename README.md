@@ -74,6 +74,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/67.AddBinary.cpp) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/68.TextJustification.cpp) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/69.SqrtX.cpp) | Easy |
+
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/70.ClimbingStairs.cpp) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/71.SimplifyPath.cpp) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/72.EditDistance.cpp) | Hard |
@@ -113,6 +114,7 @@
 -------------------------------------
 
 [LeetCode](https://leetcode.com/problemset/all/)
+
 | # | Title | Solution | Difficulty |
 | :----: | :---- | :----: | :----: |
 |  | []() | [C++]() | Easy |

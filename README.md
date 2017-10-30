@@ -108,6 +108,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/101.SymmetricTree.cpp) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/102.BinaryTreeLevelOrderTraversal.cpp) | Medium |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/103.BinaryTreeZigzagLevelOrderTraversal.cpp) | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/104.MaximumDepthofBinaryTree.cpp) | Easy |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/126.WordLadderII.cpp) | Hard |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/127.Word%20Ladder.cpp) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/149.MaxPointsonaLine.cpp) | Hard |

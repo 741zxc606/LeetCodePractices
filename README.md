@@ -5,7 +5,7 @@
 ------------------------------------------------
 
 | # | Title | Solution | Difficulty |
-| :----: | :---- | :----: | :----: |
+| :---- | :---- | :----: | :----: |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/1.TwoSum.cpp) | Medium |
 |  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/2.AddTwoNumbers01.cpp) | Medium |
 |  3  | [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/3.LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |

@@ -66,7 +66,13 @@ int main()
     root.right = &node2;
     node2.left = &node3;
     node2.right = &node4;
-
+/* Create a tree like this:
+ *   3
+ *  / \
+ *  9  20
+ *     / \
+ *   15   7
+ */
     Solution s;
 
     cout << s.maxDepth(&root) << endl;

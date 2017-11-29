@@ -52,7 +52,7 @@ public:
                 }
                 pre->right = now->right;
                 //use current node's left subtree to replace its right subtree(original right)
-                //subtree is already linked by current noe's prenode
+                //subtree is already linked by current node's prenode
                 now->right = now->left;
                 now->left = NULL;
             }

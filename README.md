@@ -126,6 +126,7 @@
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/119.Pascal'sTriangleII.cpp) | Easy |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/120.Triangle.cpp) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/121.BestTimetoBuyandSellStock.cpp) | Easy |
+| 122 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/122.BestTimetoBuyandSellStockII.cpp) | Easy |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/126.WordLadderII.cpp) | Hard |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/127.Word%20Ladder.cpp) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/149.MaxPointsonaLine.cpp) | Hard |

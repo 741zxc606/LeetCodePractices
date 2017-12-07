@@ -134,6 +134,7 @@
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/127.Word%20Ladder.cpp) | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/138.CopyListwithRandomPointer.cpp) | Hard |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/141.LinkedListCycle.cpp) | Easy |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/142.LinkedListCycleII.cpp) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/149.MaxPointsonaLine.cpp) | Hard |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 

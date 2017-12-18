@@ -134,6 +134,7 @@
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/127.Word%20Ladder.cpp) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/128.LongestConsecutiveSequence.cpp) | Hard |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/138.CopyListwithRandomPointer.cpp) | Hard |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/139.WordBreak.cpp) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/141.LinkedListCycle.cpp) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/142.LinkedListCycleII.cpp) | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/143.ReorderList.cpp) | Medium |

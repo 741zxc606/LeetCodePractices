@@ -139,6 +139,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/141.LinkedListCycle.cpp) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/142.LinkedListCycleII.cpp) | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/143.ReorderList.cpp) | Medium |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/143.BinaryTreePreorderTraversal.cpp) | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/147.InsertionSortList.cpp) | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/148.SortList.cpp) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/149.MaxPointsonaLine.cpp) | Hard |

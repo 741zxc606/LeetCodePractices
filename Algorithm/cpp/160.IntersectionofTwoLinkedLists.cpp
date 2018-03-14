@@ -49,3 +49,37 @@ public:
 		return p1;
 	}
 };
+
+ListNode *create_linkedlist(vecIter begin,vecIter end)
+{
+	ListNode *head = begin == end ? NULL : new ListNode(*begin++);
+	for (ListNode *cur = head; begin != end; cur = cur->next)
+		cur->next = new ListNode(*begin++);
+	return head;
+}
+
+void printAndClear(ListNode *head)
+{
+	while (head)
+	{
+		std::cout << head->val;
+		if (head->next)std::cout << "->";
+		ListNode *del = head;
+		delete del;
+	}
+	std::cout << std::endl;
+}
+
+int main()
+{
+	std::vector<int> vec1 = { 1,2 };
+	std::vector<int> vec2 = { 1,2,3 };
+
+	ListNode *l1 = create_linkedlist(vec1.begin(), vec1.end());
+	ListNode *l2 = create_linkedlist(vec2.begin(), vec2.end());
+
+	Solution s;
+
+	ListNode *ret = s.getIntersectionNode(l1, l2);
+	printAndClear(ret);
+}

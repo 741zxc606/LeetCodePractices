@@ -157,6 +157,7 @@
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/150.EvaluateReversePolishNotation.cpp) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/151.ReverseWordsinaString.cpp) | Medium |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/152.MaximumProductSubarray.cpp) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/155.MinStack.cpp) | Easy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/160.IntersectionofTwoLinkedLists.cpp) | Easy |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/164.MaximumGap.cpp) | Hard |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |

@@ -160,6 +160,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/155.MinStack.cpp) | Easy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/160.IntersectionofTwoLinkedLists.cpp) | Easy |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/162.FindPeakElement.cpp) | Medium |
+| 163 | [Missing Ranges :moneybag:]() | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/163.MissingRanges.cpp) | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/164.MaximumGap.cpp) | Hard |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 

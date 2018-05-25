@@ -165,6 +165,7 @@
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/166.FractiontoRecurringDecimal.cpp) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/169.MajorityElement.cpp) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/171.ExcelSheetColumnNumber.cpp) | Easy |
+| 172 | [Fractorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/172.FractorialTrailingZeroes.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 -------------------------------------

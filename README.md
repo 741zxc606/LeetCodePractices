@@ -169,6 +169,7 @@
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/179.LargestNumber.cpp) | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/189.RotateArray.cpp) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/190.ReverseBits.cpp) | Easy |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/191.Numberof1Bits.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 -------------------------------------

@@ -168,6 +168,7 @@
 | 172 | [Fractorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/172.FractorialTrailingZeroes.cpp) | Easy |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/179.LargestNumber.cpp) | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/189.RotateArray.cpp) | Easy |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/190.ReverseBits.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 -------------------------------------

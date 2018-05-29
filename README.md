@@ -173,6 +173,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/198.HouseRobber.cpp) | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/200.NumberofIslands.cpp) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/202.HappyNumber.cpp) | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/204.CountPrimes.cpp) | Easy |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 -------------------------------------

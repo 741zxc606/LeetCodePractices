@@ -175,6 +175,7 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/202.HappyNumber.cpp) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/204.CountPrimes.cpp) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/206.ReverseLinkedList.cpp) | Easy |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/207.CourseSchedule.cpp) | Medium |
 | 273 | [Integer to Enlish Words](https://leetcode.com/problems/integer-to-english-words/#/description) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/273.IntegertoEnglishWords.cpp) | Medium |
 
 -------------------------------------

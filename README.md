@@ -175,6 +175,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/198.HouseRobber.cpp) | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/200.NumberofIslands.cpp) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/202.HappyNumber.cpp) | Easy |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/203.RemoveLinkedListElements.cpp) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/204.CountPrimes.cpp) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/206.ReverseLinkedList.cpp) | Easy |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/207.CourseSchedule.cpp) | Medium |

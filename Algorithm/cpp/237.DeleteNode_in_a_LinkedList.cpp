@@ -65,9 +65,9 @@ void printAndClear(ListNode* head)
 int main()
 {
     vector<int> vec1{ 4,5,1,9 };
-    ListNode* head1 = createLinkedList(vec1.begin,vec1.end);
+    ListNode* head1 = createLinkedList(vec1.begin(),vec1.end());
 
     Solution s;
 
-    
+    //to do...
 }

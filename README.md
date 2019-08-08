@@ -167,6 +167,7 @@
 | 163 | [Missing Ranges :moneybag:]() | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/163.MissingRanges.cpp) | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/164.MaximumGap.cpp) | Hard |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/166.FractiontoRecurringDecimal.cpp) | Medium |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/167.TwoSumII-Inputarrayissorted.cpp) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/169.MajorityElement.cpp) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/171.ExcelSheetColumnNumber.cpp) | Easy |
 | 172 | [Fractorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [C++](https://github.com/741zxc606/LeetCodePractices/blob/master/Algorithm/cpp/172.FractorialTrailingZeroes.cpp) | Easy |
